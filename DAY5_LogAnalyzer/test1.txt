@@ -1,0 +1,7 @@
+2026-10-05 10:01:22 INFO User logged in
+2026-10-05 10:02:10 INFO Request received
+2026-10-05 10:02:15 ERROR Database connection failed
+2026-10-05 10:02:16 WARNING Retrying database connection
+2026-10-05 10:02:18 INFO Database connection restored
+2026-10-05 10:03:01 ERROR Request failed
+2026-10-05 10:03:12 INFO User logged out
